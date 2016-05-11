@@ -1,8 +1,8 @@
 {
     "STACK": "trusty",
     "LIBDIR": "lib",
-    "WEBDIR": "",
-    "WEB_SERVER": "httpd",
+    "WEBDIR": "app",
+    "WEB_SERVER": "nginx",
     "PHP_VM": "php",
     "ADMIN_EMAIL": "admin@localhost",
     "HTTPD_VERSION": "2.4.20",
