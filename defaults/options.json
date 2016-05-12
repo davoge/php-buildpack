@@ -1,7 +1,7 @@
 {
     "STACK": "trusty",
     "LIBDIR": "lib",
-    "WEBDIR": "htdocs",
+    "WEBDIR": "",
     "WEB_SERVER": "nginx",
     "PHP_VM": "php",
     "ADMIN_EMAIL": "admin@localhost",
